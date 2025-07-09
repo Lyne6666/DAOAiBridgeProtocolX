@@ -1,2 +1,1 @@
-# DAOAiBridgeProtocolX
-Advanced DAOAiBridgeProtocolX project
+.
